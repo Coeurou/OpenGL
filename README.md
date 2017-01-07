@@ -1,4 +1,4 @@
 OpenGL
 ======
 
-Second step with OpenGL
+Learning OpenGL
